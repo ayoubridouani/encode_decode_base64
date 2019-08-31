@@ -6,9 +6,7 @@ this program to encode/decode string to base 64
 
 ayoub      ---(encode)--->    YXlvdWI=
 
-
 YXlvdWI=   ---(decode)--->    ayoub
-
 
 Example For : ayoub
 ![base64](https://raw.githubusercontent.com/ayoubridouani/encode_decode_base64/master/base64.png "base64")
